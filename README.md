@@ -3,7 +3,8 @@
 ### Hey there👋, I'm Poorvika
 
 🌱I'm a passionate Computer Science student. I Always like to explore new technologies and enhance my skill set.  
-✨Always open to collaborating on interesting projects or brainstorming ideas.
+✨Always open to collaborating on interesting projects or brainstorming ideas.  
+📧Reach out to me - <a href="mailto:poorvikaa08@gmail.com">poorvikaa08@gmail.com</a>
 
 ![](https://komarev.com/ghpvc/?username=poorvikaa08&color=blue)
 
@@ -26,16 +27,11 @@
 
 
 ### GitHub Stats 🌟
-<table>
-  <tr>
-    <td  style="padding-right: 10px;">
-      <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
-    </td>
-    <td style="padding-left: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=poorvikaa08&show_icons=true&theme=radical" alt="GitHub Stats" width="500" height="300"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; gap: 30px;">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400" style="margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=poorvikaa08&show_icons=true&theme=radical" alt="GitHub Stats" width="410" height="300"/>
+</div>
+
 
 
 
