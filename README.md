@@ -40,6 +40,12 @@
 ### GitHub Trophies 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=poorvikaa08&theme=monokai&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/poorvikaa08)
 
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='left'><a href="[https://gssoc.girlscript.tech/leaderboard](https://gssoc.girlscript.tech/leaderboard?year=2024Extd)">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+</div>
 
 ### Hacktoberfest Holopin Badges 🏅
 [![An image of @poorvikaa08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/poorvikaa08)](https://holopin.io/@poorvikaa08)
