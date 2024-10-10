@@ -8,7 +8,7 @@
 
 
 <div style="display: flex; align-items: center; gap: 20px;">
-    <h3>Languages and Tools</h3>
+    <h3>Tech Stack 💻 </h3>
     <p style="display: flex; gap: 10px;" align="left">
       <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
