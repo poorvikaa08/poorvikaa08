@@ -5,6 +5,7 @@
 🌱I'm a passionate Computer Science student. I Always like to explore new technologies and enhance my skill set.  
 ✨Always open to collaborating on interesting projects or brainstorming ideas.
 
+![](https://komarev.com/ghpvc/?username=poorvikaa08&color=blue)
 
 
 <div style="display: flex; align-items: center; gap: 20px;">
