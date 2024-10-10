@@ -21,9 +21,11 @@
     </p>
 </div>
 
-### Connect with me
-- <a href="https://www.linkedin.com/in/poorvika-k-b/" ><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-- <a href="https://twitter.com/_poorvikaa" ><img align="center" src="https://img.shields.io/twitter/follow/_poorvikaa.svg?style=social" /> </a>
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poorvika-k-b/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_poorvikaa)
+
 
 
 ### GitHub Stats 🌟
