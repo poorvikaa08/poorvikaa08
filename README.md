@@ -35,8 +35,6 @@
 </div>
 
 
-
-
 ### GitHub Trophies 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=poorvikaa08&theme=monokai&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/poorvikaa08)
 
