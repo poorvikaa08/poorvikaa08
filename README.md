@@ -8,7 +8,6 @@
 
 ![](https://komarev.com/ghpvc/?username=poorvikaa08&color=blue)
 
-
 <div style="display: flex; align-items: center; gap: 20px;">
     <h3>Tech Stack 💻 </h3>
     <p style="display: flex; gap: 10px;" align="left">
