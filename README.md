@@ -8,16 +8,17 @@
 
 ![](https://komarev.com/ghpvc/?username=poorvikaa08&color=blue)
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 50px;">
     <h3>Tech Stack 💻 </h3>
     <p style="display: flex; gap: 10px;" align="left">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;  
-      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="tailwind" width="40" height="40"/>&nbsp;  
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="tailwind" width="40" height="40"/>&nbsp;  
     </p>
 </div>
 
@@ -34,17 +35,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=poorvikaa08&show_icons=true&theme=radical" alt="GitHub Stats" width="410" height="300"/>
 </div>
 
-
-### GitHub Trophies 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=poorvikaa08&theme=monokai&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/poorvikaa08)
-
-## GSSOC24-Ext Badges
+### GSSOC24-Ext Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='left'><a href="[https://gssoc.girlscript.tech/leaderboard](https://gssoc.girlscript.tech/leaderboard?year=2024Extd)">
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
 </div>
+
+
+### GitHub Trophies 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=poorvikaa08&theme=monokai&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/poorvikaa08)
+
 
 ### Hacktoberfest Holopin Badges 🏅
 [![An image of @poorvikaa08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/poorvikaa08)](https://holopin.io/@poorvikaa08)
