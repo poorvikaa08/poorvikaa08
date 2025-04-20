@@ -35,12 +35,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=poorvikaa08&show_icons=true&theme=radical" alt="GitHub Stats" width="410" height="300"/>
 </div>
 
+
+
 ### GSSOC24-Ext Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='left'><a href="[https://gssoc.girlscript.tech/leaderboard](https://gssoc.girlscript.tech/leaderboard?year=2024Extd)">
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" /
+    <img src="https://api.badgr.io/public/assertions/YF3O-oljTf6rGaWbcHZHgQ/image" alt="Postman API Fundamentals Student Expert" width="100" height="100">   
 </div>
 
 
