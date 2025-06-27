@@ -2,22 +2,31 @@
 
 ### Hey there👋, I'm Poorvika
 
-🌱I'm a passionate Computer Science student. I Always like to explore new technologies and enhance my skill set.  
-✨Always open to collaborating on interesting projects or brainstorming ideas.  
-📧Reach out to me - <a href="mailto:poorvikaa08@gmail.com">poorvikaa08@gmail.com</a>
+🌱 I'm a passionate Computer Science student. I Always like to explore new technologies and enhance my skill set.  
+✨ Always open to collaborating on interesting projects or brainstorming ideas.  
+📧 Reach out to me - <a href="mailto:poorvikaa08@gmail.com">poorvikaa08@gmail.com</a>
 
 ![](https://komarev.com/ghpvc/?username=poorvikaa08&color=blue)
 
 <div style="display: flex; align-items: center; gap: 50px;">
     <h3>Tech Stack 💻 </h3>
-    <p style="display: flex; gap: 10px;" align="left">
+    <p style="display: flex; gap: 15;" align="left">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img width="5" />
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img width="5" />
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="CSS" width="40" height="40"/>&nbsp;
+        <img width="5" />
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+        <img width="5" />
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="Git" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="Python" width="40" height="40"/>&nbsp; 
+        <img width="5" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" width="40" height="40"/>&nbsp; 
+        <img width="5" />
+        <img src="https://cdn.simpleicons.org/nodedotjs/339933" title="Node" width="40" height="40"/>&nbsp;
+        <img width="5" />
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
+        <img width="5" />
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="tailwind" width="40" height="40"/>&nbsp;  
     </p>
 </div>
@@ -25,6 +34,7 @@
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poorvika-k-b/)
+<img width="5" />
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_poorvikaa)
 
 
