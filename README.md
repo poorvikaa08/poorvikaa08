@@ -8,6 +8,10 @@
 
 ![](https://komarev.com/ghpvc/?username=poorvikaa08&color=blue)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+
 <div style="display: flex; align-items: center; gap: 50px;">
     <h3>Tech Stack 💻 </h3>
     <p style="display: flex; gap: 15;" align="left">
