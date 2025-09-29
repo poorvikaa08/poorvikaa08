@@ -2,7 +2,7 @@
 
 ### Hey there👋, I'm Poorvika
 
-🌱 I'm a passionate Computer Science student. I Always like to explore new technologies and enhance my skill set.  
+🌱 I'm a passionate Computer Science student. I always like to explore new technologies and enhance my skill set.  
 ✨ Always open to collaborating on interesting projects or brainstorming ideas.  
 📧 Reach out to me - <a href="mailto:poorvikaa08@gmail.com">poorvikaa08@gmail.com</a>
 
@@ -21,19 +21,28 @@
         <img width="5" />
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="CSS" width="40" height="40"/>&nbsp;
         <img width="5" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="Git" width="40" height="40"/>&nbsp;
+        <img width="5" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" width="40" height="40"/>&nbsp; 
+        <img width="5" />
+        <img src="https://cdn.simpleicons.org/nodedotjs/339933" title="Node" width="40" height="40"/>&nbsp;
+        <img width="5" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" title="express" width="40" height="40"/>&nbsp;
+        <img width="5" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Node" width="40" height="40"/>&nbsp;
+        <img width="5" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
+        <img width="5" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="Fastapi" alt="fastapi" width="40" height="40"/>&nbsp;  
+        <img width="5" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="tailwind" width="40" height="40"/>&nbsp; 
+        <img width="5" />
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
         <img width="5" />
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="45" height="50"/>&nbsp;
         <img width="5" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" width="40" height="40"/>&nbsp; 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" width="42" height="45"/>&nbsp;
         <img width="5" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="Git" width="40" height="40"/>&nbsp;
-        <img width="5" />
-        <img src="https://cdn.simpleicons.org/nodedotjs/339933" title="Node" width="40" height="40"/>&nbsp;
-        <img width="5" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
-        <img width="5" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="tailwind" width="40" height="40"/>&nbsp;  
     </p>
 </div>
 
