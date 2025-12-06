@@ -6,6 +6,7 @@
 ✨ Always open to collaborating on interesting projects or brainstorming ideas.  
 📧 Reach out to me - <a href="mailto:poorvikaa08@gmail.com">poorvikaa08@gmail.com</a>
 
+
 ![](https://komarev.com/ghpvc/?username=poorvikaa08&color=blue)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -53,11 +54,22 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_poorvikaa)
 
 
-
 ### GitHub Stats 🌟
-<div style="display: flex; align-items: center; gap: 30px;">
-  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400" style="margin-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=poorvikaa08&show_icons=true&theme=radical" alt="GitHub Stats" width="410" height="300"/>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400" height="300">
+</div>
+
+<p></p> 
+
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poorvikaa08&theme=radical&hide_border=true" width="450">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=poorvikaa08&show_icons=true&theme=radical&hide_border=true" width="430">
+</div>
+
+<p></p> 
+
+<div >
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poorvikaa08&theme=radical" width="60%">
 </div>
 
 
